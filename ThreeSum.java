@@ -20,7 +20,7 @@ public class ThreeSum {
                         right--;
                     }
                     left++;
-                    right--;2
+                    right--;
                 } else if (sum < 0) {
                     left++;
                 } else {
