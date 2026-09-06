@@ -35,7 +35,7 @@
 
         }
         public static void main (String args[]){
-            int arr[] = {9,11,12,15,19,20,25,3,4,5,6};
+            int arr[] = {9,11,12,15,19,20,25,3,4,5,6}; 
             Scanner get = new Scanner(System.in);
             int target = get.nextInt();
             int minindx = findMin(arr);
